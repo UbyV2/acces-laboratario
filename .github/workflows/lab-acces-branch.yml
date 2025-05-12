@@ -25,6 +25,6 @@ jobs:
             },
             "restrictions": {
               "users": [],
-              "teams": ["OtherTeam"]
+              "teams": ["otherTeam"]
             }
           }'
